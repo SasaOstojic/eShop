@@ -4,7 +4,7 @@ Ecommerce application built in React with real-world eShop experience. Many feat
 
 # How to start this application:
 1. Clone project
-2. Npm install
-3. Npm start
+2. npm install
+3. npm run start:frontend
 
 
